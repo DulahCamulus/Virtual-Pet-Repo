@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+<Walker West>
 
-<Enter Name 2 Here>
+<Conner Gall>
 
 ## Run from Git Bash
 
